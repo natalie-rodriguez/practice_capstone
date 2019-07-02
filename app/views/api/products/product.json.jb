@@ -1,0 +1,12 @@
+{
+id: @product.id,
+name: @product.name,
+price: @product.price,
+description: @product.description,
+
+
+}
+
+
+#this file is is where i'll make a hash with a bunch of key value pairs 
+#advice make one key value pair first then make sure it works 
